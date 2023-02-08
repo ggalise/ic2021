@@ -206,3 +206,4 @@ def precision_recall(y_test, y_score, n_classes):
     plt.legend(loc="best")
     plt.title("precision vs. recall curve")
     plt.show()
+
